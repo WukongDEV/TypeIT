@@ -1,0 +1,50 @@
+{
+  "name": "typeit",
+  "version": "1.0.0",
+  "description": "Repo for the [DJS turorials](https://www.youtube.com/watch?v=UcLspwognk0&list=PLWnw41ah3I4ZfNLV3by7nB6JO2WcCc3Wj) on [MenuDocs](https://www.youtube.com/channel/UCpGGFqJP9vYvzFudqnQ-6IA)",
+  "main": "index.js",
+  "dependencies": {
+    "apextab-api": "^1.0.5",
+    "ascii-art": "^2.5.0",
+    "async": "^3.2.0",
+    "canvas": "^2.6.1",
+    "canvas-constructor": "^3.2.0",
+    "common-tags": "^1.8.0",
+    "dateformat": "^3.0.3",
+    "dblista-wrapper": "^1.0.6",
+    "discord.js": "^12.2.0",
+    "discord.js-commando": "^0.10.0",
+    "enmap": "^5.2.4",
+    "erela.js": "^1.1.8",
+    "fs": "0.0.1-security",
+    "git": "^0.1.5",
+    "js-helpers": "^1.0.0",
+    "moment": "^2.26.0",
+    "moment-timezone": "^0.5.31",
+    "mysql": "^2.18.1",
+    "node-fetch": "^2.6.0",
+    "node-superfetch": "^0.1.10",
+    "nodemon": "^2.0.4",
+    "os": "^0.1.1",
+    "overwatch-api": "^0.8.2",
+    "pm2": "^4.4.0",
+    "pornsearch": "^2.4.3",
+    "quick.db": "^7.1.1",
+    "quick.hook": "^1.5.1",
+    "simple-fortnite-api": "^0.1.9",
+    "snekfetch": "^4.0.4",
+    "superagent": "^5.2.2",
+    "urban": "^0.3.2"
+  },
+  "engines": {
+    "node": "12.16.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "startnodemon": "nodemon index.js"
+  },
+  "author": "Jamess",
+  "license": "ISC",
+  "homepage": "https://github.com/DareQ-11/DBIT-BOT-S#readme"
+}
